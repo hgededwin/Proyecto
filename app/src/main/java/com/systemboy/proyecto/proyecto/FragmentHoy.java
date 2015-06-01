@@ -6,9 +6,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-/**
- * Created by edwinhernandez on 31/05/15.
- */
+
 public class FragmentHoy extends Fragment {
 
     @Override

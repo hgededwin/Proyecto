@@ -3,21 +3,6 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.getbase.floatingactionbutton.FloatingActionButton
-        android:id="@+id/btnNewProblem"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        fab:fab_addButtonPlusIconColor="@color/button_material_light"
-        fab:fab_icon="@drawable/ic_action_new"
-        fab:fab_colorNormal="#FF4081"
-        fab:fab_colorPressed="#E91E63"
-        android:elevation="6dp"
-        android:layout_gravity="right|bottom"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:layout_marginRight="12dp"
-        android:layout_marginBottom="12dp" />
 
 
 </LinearLayout>
