@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#2196F3</color>
+    <color name="primary_dark_color">#1976D2</color>
+    <color name="accent_color">#4CAF50</color>
+    <color name="unchecked_color">#D50000</color>
+    <color name="unchecked_color_press">#B71C1C</color>
+    <color name="photo_tint">#000000</color>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="navigation_drawer_items">
+        <item>Hoy</item>
+        <item>Calendario</item>
+        <item>Tareas</item>
+        <item>Planificador</item>
+    </string-array>
+
+    <string-array name="navigation_drawer_icons">
+        <item>@drawable/ic_hoy</item>
+        <item>@drawable/ic_calendar</item>
+        <item>@drawable/ic_tareas</item>
+        <item>@drawable/ic_plan</item>
+    </string-array>
+</resources>

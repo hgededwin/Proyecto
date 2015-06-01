@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/edwinhernandez/Desktop/Proyectos/Proyecto2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="/Users/edwinhernandez/Desktop/Proyectos/Proyecto2/app/build/intermediates/pre-dexed/debug/classes-82b0785f40262aa63b9bcc985a7d344e217e601e.jar" />
+    </item>
+    <item
+        jar="/Users/edwinhernandez/Desktop/Proyectos/Proyecto2/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.7.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8b87d18f72cdc3cbefff2264fcb90b4b46f7f58e">
+        <dex dex="/Users/edwinhernandez/Desktop/Proyectos/Proyecto2/app/build/intermediates/pre-dexed/debug/classes-4187e41e2af2a58cbfd3386d17576a17122ce667.jar" />
+    </item>
+    <item
+        jar="/Users/edwinhernandez/Desktop/Proyectos/Proyecto2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/edwinhernandez/Desktop/Proyectos/Proyecto2/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-b9ea8775266327b4a0dbc1b7302b5557c0098645.jar" />
+    </item>
+    <item
+        jar="/Users/edwinhernandez/Documents/Recursos Android/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/edwinhernandez/Desktop/Proyectos/Proyecto2/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-5f19234e6b4dd584237cff6d494aff1354c56cd3.jar" />
+    </item>
+    <item
+        jar="/Users/edwinhernandez/Desktop/Proyectos/Proyecto2/app/build/intermediates/exploded-aar/com.afollestad/material-dialogs/0.7.4.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d255a721dd229574dfec5056df3764036c338dbe">
+        <dex dex="/Users/edwinhernandez/Desktop/Proyectos/Proyecto2/app/build/intermediates/pre-dexed/debug/classes-46d32a3d769e57ce221fe0158f33fd3e046b2cd6.jar" />
+    </item>
+    <item
+        jar="/Users/edwinhernandez/Desktop/Proyectos/Proyecto2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/edwinhernandez/Desktop/Proyectos/Proyecto2/app/build/intermediates/pre-dexed/debug/classes-b3472e7f824eff1857a6e50c0afee610f0df3ec3.jar" />
+    </item>
+    <item
+        jar="/Users/edwinhernandez/Desktop/Proyectos/Proyecto2/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/edwinhernandez/Desktop/Proyectos/Proyecto2/app/build/intermediates/pre-dexed/debug/classes-07d03d8d70d0ba9dc2a636579345be03e3bb9790.jar" />
+    </item>
+    <item
+        jar="/Users/edwinhernandez/Desktop/Proyectos/Proyecto2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/edwinhernandez/Desktop/Proyectos/Proyecto2/app/build/intermediates/pre-dexed/debug/classes-5174a3d8abf25f1b9bcc5449c735273ae6043778.jar" />
+    </item>
+
+</items>
